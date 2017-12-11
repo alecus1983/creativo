@@ -1,0 +1,18 @@
+!SESSION 2017-09-05 22:04:40.233 -----------------------------------------------
+eclipse.buildId=4.5.2.v20160416-2200
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-05 22:04:53.462
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/lib64/eclipse/dropins/jdt.
+!SESSION 2017-09-05 22:19:14.902 -----------------------------------------------
+eclipse.buildId=4.5.2.v20160416-2200
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_GB
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-05 22:19:23.525
+!MESSAGE Unable to acquire PluginConverter service during generation for: /usr/lib64/eclipse/dropins/jdt.

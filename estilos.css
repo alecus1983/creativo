@@ -1,0 +1,273 @@
+.Parrafo {
+
+	
+	font-style: normal;
+	line-height: normal;
+	font-family: Arial, Helvetica, sans-serif;
+	font-variant: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: #000000;
+	text-align: justify  ;
+}
+
+.Subtitulo {
+	color: #660033;
+	font-weight: bold;
+	font-style: italic;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+}
+.Titulo_1 {
+	font-weight: bold;
+	font-size: 22px;
+	color: #660033;
+	font-style: normal;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+
+.Titulo_tabla {
+	color: #FFFFFF;/*blanco*/
+	font-weight: bold; /*negrilla*/
+	background-color: #663333; /*fondo pulpura*/
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-style: normal;
+	font-size: 18px;
+	border: black 1px solid; 
+}
+
+.formato_tabla {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000; /*negro*/
+ 	border-collapse: collapse;
+	border: black 1px solid; 
+	
+}
+
+.formato_celda {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000;
+ 	border-collapse: collapse;
+	border: black 1px solid;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	/*valign: middle;
+	/*bordercolor : #000000;*/
+
+}
+
+.enlaces {
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	color: #006633;
+	font-size: 18px;
+	font: Verdana;
+	height: inherit;
+	width: auto;
+	position: inherit;
+}
+
+.ubicacion {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: inherit;
+	line-height: normal;
+	font-weight: 900;
+	font-variant: normal;
+	text-transform: capitalize;
+	color: #330033;
+        
+}
+
+ul {
+     /* justify-content:center;
+        aling-items: center; */
+    list-style-type: none;
+    display: block!important;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #fff;
+     
+    }
+    
+    /* hace que el menu flote */
+ li {
+    float: left;
+ }
+
+ li a:hover, .dropdown:hover  {
+		 background-color: red;
+	     }
+ li   .preescolar:link 	{ color: #000;
+		}
+   li preescolar:visited {
+		color: #000;
+		}
+  
+    
+    .preescolar{
+    display: flex;
+    text-decoration: none;
+    /*
+    color: #fff;
+    background-color: #4acfef ;
+    */
+    border: solid 1px #010101;
+    width: 120px;
+    height: 102px;
+   
+     align-self: center;
+}
+     
+    
+    
+    .primaria{
+    display: flex;
+    /*
+    text-decoration: none;
+    color: #fff;
+    background-color: #38bebc;
+    */
+    border: solid 1px #010101;
+    width: 180px;
+    height: 50px;
+    align-self: center;
+    
+    }
+    
+.secundaria{
+    
+    text-decoration: none;
+    /*
+    color: #fff;
+    background-color: #399;
+    */
+    border: solid 1px #000;
+    width: 290px;
+    height: 50px;
+    display: flex;
+    align-content: center;
+    }
+    
+    .media{
+    display: inline-block;
+    text-decoration: none;
+    /*
+    color: #fff;
+    background-color: #399;
+    */
+    border: solid 1px #000;
+    width: 235px;
+    height: 50px;
+    }
+    
+    .trabajo{
+    display: inline-block;
+    text-decoration: none;
+ 
+    border: solid 1px #000;
+    width: 235px;
+    height: 50px;
+    }
+
+    .top{
+        height: 50 px;
+        width: 100%
+        
+    }
+
+    #contenedor {
+	
+  width: 1200px;
+  
+}
+
+#top_menu{
+  width: 1200px;
+height: 50px;
+float: left;
+ background-color: #FFFFFF;
+}
+
+#center_menu{
+  width: 1000px;
+height: 50px;
+float: left;
+ background-color: #FFFFFF;
+}
+
+#lateral{
+    width: 200px;
+    float: left;
+    height: 100%;
+}
+
+#cabecera {
+ background-color: #FFFFFF;    
+}
+
+#menu_up {
+  float: left;
+  width: 800px;
+ background-color: #FFFFFF;
+  
+}
+
+#logo {
+  float: left;
+  width: 200px;
+  background-color: #FFFFFF;
+ 
+}
+
+
+
+
+#menu {
+  float: left;
+  width: 200px;
+  
+}
+
+#contenido {
+  float: left;
+  width: 600px;
+   background-color: #FFFFFF;
+}
+
+#pie {
+    clear: both;
+     background-color: #FFFFFF;
+}
+
+.a:link{
+	color: #006600;
+}
+.a:visited {
+    color: #000066;
+}
+.a {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+body {
+  background-color: #FFF;
+}

@@ -1,0 +1,37 @@
+SELECT * FROM (
+SELECT concat (c.year,  m.grado,  c.id_materia) p, c.id_alumno, id_logro, nota, c.id_docente, c.periodo
+FROM `calificaciones` c INNER JOIN matricula m ON c.id_alumno = m.id_alumno
+WHERE c.year = 2017 AND c.periodo = 2 AND c.nota = 0) AS C 
+INNER JOIN 
+
+
+// consulta que genera la cantidad de estudiantes  con notas faltantes para un periodo
+
+SELECT concat( docentes.nombres, docentes.apellidos) docente, id_alumno, id_materia, gr, concat(alumnos.nombres, alumnos.apellidos) , materia.materia, grados.grado
+FROM (((((
+SELECT concat (c.year,  m.grado,  c.id_materia) p, c.id_alumno, id_logro, nota, c.id_docente, c.periodo, c.id_materia, m.grado gr
+FROM `calificaciones` c INNER JOIN matricula m ON c.id_alumno = m.id_alumno
+WHERE c.year = 2017 AND c.periodo = 2 AND c.nota = 0) AS C 
+INNER JOIN 
+(SELECT concat (year,id_g, id_m) p, id_d FROM matricula_docente) AS D ON C.p = D.p) 
+INNER JOIN docentes ON id_d = docentes.id)
+INNER JOIN alumnos ON id_alumno = alumnos.id)
+INNER JOIN materia ON id_materia = materia.id)
+INNER JOIN grados ON gr = grados.id
+ORDER BY id_d
+
+// consulta que genera la cantidad de notas faltantes por docente para un periodo
+
+SELECT concat( docentes.nombres, docentes.apellidos) docente, COUNT(id_alumno) cantidad,   materia.materia, grados.grado
+FROM (((((
+SELECT concat (c.year,  m.grado,  c.id_materia) p, c.id_alumno, id_logro, nota, c.id_docente, c.periodo, c.id_materia, m.grado gr
+FROM `calificaciones` c INNER JOIN matricula m ON c.id_alumno = m.id_alumno
+WHERE c.year = 2017 AND c.periodo = 2 AND c.nota = 0) AS C 
+INNER JOIN 
+(SELECT concat (year,id_g, id_m) p, id_d FROM matricula_docente) AS D ON C.p = D.p) 
+INNER JOIN docentes ON id_d = docentes.id)
+INNER JOIN alumnos ON id_alumno = alumnos.id)
+INNER JOIN materia ON id_materia = materia.id)
+INNER JOIN grados ON gr = grados.id
+GROUP BY id_d, gr, id_materia
+ORDER BY id_d

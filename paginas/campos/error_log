@@ -1,0 +1,132 @@
+[25-Aug-2016 18:57:56 America/Bogota] PHP Warning:  include(/home/imcreaconexion.php): failed to open stream: No such file or directory in /home/imcrea/public_html/paginas/campos/grados.php on line 5
+[25-Aug-2016 18:57:56 America/Bogota] PHP Warning:  include(): Failed opening '/home/imcreaconexion.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/imcrea/public_html/paginas/campos/grados.php on line 5
+[25-Aug-2016 18:57:56 America/Bogota] PHP Fatal error:  Call to undefined function conectar() in /home/imcrea/public_html/paginas/campos/grados.php on line 6
+[25-Aug-2016 18:59:03 America/Bogota] PHP Warning:  include(/home/imcreaconexion.php): failed to open stream: No such file or directory in /home/imcrea/public_html/paginas/campos/materias.php on line 6
+[25-Aug-2016 18:59:03 America/Bogota] PHP Warning:  include(): Failed opening '/home/imcreaconexion.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/imcrea/public_html/paginas/campos/materias.php on line 6
+[25-Aug-2016 18:59:03 America/Bogota] PHP Fatal error:  Call to undefined function conectar() in /home/imcrea/public_html/paginas/campos/materias.php on line 8
+[25-Aug-2016 18:59:15 America/Bogota] PHP Warning:  include(/home/imcreaconexion.php): failed to open stream: No such file or directory in /home/imcrea/public_html/paginas/campos/grados.php on line 5
+[25-Aug-2016 18:59:15 America/Bogota] PHP Warning:  include(): Failed opening '/home/imcreaconexion.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/imcrea/public_html/paginas/campos/grados.php on line 5
+[25-Aug-2016 18:59:15 America/Bogota] PHP Fatal error:  Call to undefined function conectar() in /home/imcrea/public_html/paginas/campos/grados.php on line 6
+[25-Aug-2016 18:59:21 America/Bogota] PHP Warning:  include(/home/imcreaconexion.php): failed to open stream: No such file or directory in /home/imcrea/public_html/paginas/campos/grados.php on line 5
+[25-Aug-2016 18:59:21 America/Bogota] PHP Warning:  include(): Failed opening '/home/imcreaconexion.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/imcrea/public_html/paginas/campos/grados.php on line 5
+[25-Aug-2016 18:59:21 America/Bogota] PHP Fatal error:  Call to undefined function conectar() in /home/imcrea/public_html/paginas/campos/grados.php on line 6
+[25-Sep-2016 09:36:55 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 17
+[25-Sep-2016 09:36:55 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 18
+[25-Sep-2016 09:40:08 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 17
+[25-Sep-2016 09:40:08 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 18
+[05-Apr-2017 11:52:46 America/Bogota] PHP Notice:  Undefined variable: id in /home/imcrea/public_html/paginas/campos/delete.php on line 16
+[05-Apr-2017 11:54:08 America/Bogota] PHP Notice:  Undefined variable: id in /home/imcrea/public_html/paginas/campos/delete.php on line 16
+[05-Apr-2017 19:45:09 America/Bogota] PHP Notice:  Undefined variable: id in /home/imcrea/public_html/paginas/campos/delete.php on line 16
+[05-Apr-2017 19:55:55 America/Bogota] PHP Notice:  Undefined variable: id in /home/imcrea/public_html/paginas/campos/delete.php on line 16
+[05-Apr-2017 19:56:09 America/Bogota] PHP Notice:  Undefined variable: id in /home/imcrea/public_html/paginas/campos/delete.php on line 16
+[06-Apr-2017 12:21:21 America/Bogota] PHP Notice:  Undefined variable: id in /home/imcrea/public_html/paginas/campos/delete.php on line 16
+[06-Apr-2017 12:21:47 America/Bogota] PHP Notice:  Undefined variable: id in /home/imcrea/public_html/paginas/campos/delete.php on line 16
+[06-Apr-2017 12:22:07 America/Bogota] PHP Notice:  Undefined variable: id in /home/imcrea/public_html/paginas/campos/delete.php on line 16
+[06-Apr-2017 12:22:29 America/Bogota] PHP Notice:  Undefined variable: id in /home/imcrea/public_html/paginas/campos/delete.php on line 16
+[07-Apr-2017 19:26:13 America/Bogota] PHP Notice:  Undefined variable: id in /home/imcrea/public_html/paginas/campos/delete.php on line 16
+[07-Apr-2017 19:56:23 America/Bogota] PHP Notice:  Undefined variable: id in /home/imcrea/public_html/paginas/campos/delete.php on line 16
+[07-Apr-2017 20:01:56 America/Bogota] PHP Notice:  Undefined variable: id in /home/imcrea/public_html/paginas/campos/delete.php on line 16
+[07-Apr-2017 20:02:05 America/Bogota] PHP Notice:  Undefined variable: id in /home/imcrea/public_html/paginas/campos/delete.php on line 16
+[07-Apr-2017 20:15:18 America/Bogota] PHP Notice:  Undefined variable: id in /home/imcrea/public_html/paginas/campos/delete.php on line 16
+[07-Apr-2017 20:20:15 America/Bogota] PHP Notice:  Undefined variable: id in /home/imcrea/public_html/paginas/campos/delete.php on line 16
+[07-Apr-2017 20:21:56 America/Bogota] PHP Notice:  Undefined variable: id in /home/imcrea/public_html/paginas/campos/delete.php on line 16
+[07-Apr-2017 20:35:05 America/Bogota] PHP Notice:  Undefined variable: id in /home/imcrea/public_html/paginas/campos/delete.php on line 16
+[10-Apr-2017 09:01:48 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 17
+[10-Apr-2017 09:01:48 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 18
+[06-Jul-2017 09:56:22 America/Bogota] PHP Notice:  Undefined variable: id in /home/imcrea/public_html/paginas/campos/delete.php on line 16
+[28-Sep-2017 11:04:30 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/grados.php on line 12
+[28-Sep-2017 11:04:30 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/grados.php on line 13
+[01-Oct-2017 11:34:39 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 17
+[01-Oct-2017 11:34:39 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 18
+[01-Oct-2017 11:35:42 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 17
+[01-Oct-2017 11:35:42 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 18
+[01-Oct-2017 13:40:26 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 17
+[01-Oct-2017 13:40:26 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 18
+[01-Oct-2017 18:06:42 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 17
+[01-Oct-2017 18:06:42 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 18
+[03-Oct-2017 16:20:24 America/Bogota] PHP Notice:  Undefined variable: id in /home/imcrea/public_html/paginas/campos/delete.php on line 16
+[03-Oct-2017 16:20:55 America/Bogota] PHP Notice:  Undefined variable: id in /home/imcrea/public_html/paginas/campos/delete.php on line 16
+[04-Oct-2017 06:31:35 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 17
+[04-Oct-2017 06:31:35 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 18
+[04-Oct-2017 15:01:26 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/grados.php on line 12
+[04-Oct-2017 15:01:26 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/grados.php on line 13
+[04-Oct-2017 15:01:43 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/grados.php on line 12
+[04-Oct-2017 15:01:43 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/grados.php on line 13
+[04-Oct-2017 15:02:13 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/grados.php on line 12
+[04-Oct-2017 15:02:13 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/grados.php on line 13
+[04-Oct-2017 15:02:34 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/grados.php on line 12
+[04-Oct-2017 15:02:34 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/grados.php on line 13
+[05-Oct-2017 09:25:20 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/grados.php on line 12
+[05-Oct-2017 09:25:20 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/grados.php on line 13
+[05-Oct-2017 09:25:55 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/grados.php on line 12
+[05-Oct-2017 09:25:55 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/grados.php on line 13
+[05-Oct-2017 17:03:14 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 17
+[05-Oct-2017 17:03:14 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 18
+[05-Oct-2017 17:03:47 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 17
+[05-Oct-2017 17:03:47 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 18
+[05-Oct-2017 17:03:57 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 17
+[05-Oct-2017 17:03:57 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 18
+[05-Oct-2017 17:04:12 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 17
+[05-Oct-2017 17:04:12 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 18
+[05-Oct-2017 17:07:25 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 17
+[05-Oct-2017 17:07:25 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 18
+[05-Oct-2017 17:08:46 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 17
+[05-Oct-2017 17:08:46 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 18
+[05-Oct-2017 17:09:33 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 17
+[05-Oct-2017 17:09:33 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 18
+[05-Oct-2017 17:10:36 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 17
+[05-Oct-2017 17:10:36 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 18
+[05-Oct-2017 17:10:45 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 17
+[05-Oct-2017 17:10:45 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 18
+[05-Oct-2017 18:00:32 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 17
+[05-Oct-2017 18:00:32 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 18
+[10-Oct-2017 16:21:45 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/grados.php on line 12
+[10-Oct-2017 16:21:45 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/grados.php on line 13
+[12-Oct-2017 10:07:25 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/grados.php on line 12
+[12-Oct-2017 10:07:25 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/grados.php on line 13
+[12-Oct-2017 12:01:08 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/grados.php on line 12
+[12-Oct-2017 12:01:08 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/grados.php on line 13
+[12-Oct-2017 12:01:18 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 17
+[12-Oct-2017 12:01:18 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 18
+[14-Oct-2017 14:12:27 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/grados.php on line 12
+[14-Oct-2017 14:12:27 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/grados.php on line 13
+[14-Oct-2017 14:13:02 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 17
+[14-Oct-2017 14:13:02 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 18
+[17-Oct-2017 16:34:16 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/grados.php on line 12
+[17-Oct-2017 16:34:16 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/grados.php on line 13
+[26-Oct-2017 10:43:28 America/Bogota] PHP Notice:  Undefined variable: id in /home/imcrea/public_html/paginas/campos/delete.php on line 16
+[26-Oct-2017 10:49:11 America/Bogota] PHP Notice:  Undefined variable: id in /home/imcrea/public_html/paginas/campos/delete.php on line 16
+[26-Oct-2017 10:49:16 America/Bogota] PHP Notice:  Undefined variable: id in /home/imcrea/public_html/paginas/campos/delete.php on line 16
+[26-Oct-2017 11:29:03 America/Bogota] PHP Notice:  Undefined variable: id in /home/imcrea/public_html/paginas/campos/delete.php on line 16
+[26-Oct-2017 11:29:06 America/Bogota] PHP Notice:  Undefined variable: id in /home/imcrea/public_html/paginas/campos/delete.php on line 16
+[26-Oct-2017 11:29:14 America/Bogota] PHP Notice:  Undefined variable: id in /home/imcrea/public_html/paginas/campos/delete.php on line 16
+[14-Nov-2017 07:02:27 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/grados.php on line 12
+[14-Nov-2017 07:02:27 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/grados.php on line 13
+[14-Nov-2017 10:11:52 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/grados.php on line 12
+[14-Nov-2017 10:11:52 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/grados.php on line 13
+[14-Nov-2017 20:02:02 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 17
+[14-Nov-2017 20:02:02 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 18
+[14-Nov-2017 20:02:15 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 17
+[14-Nov-2017 20:02:15 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 18
+[14-Nov-2017 20:06:09 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 17
+[14-Nov-2017 20:06:09 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 18
+[14-Nov-2017 20:06:22 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 17
+[14-Nov-2017 20:06:22 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 18
+[15-Nov-2017 09:36:20 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 17
+[15-Nov-2017 09:36:20 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 18
+[15-Nov-2017 09:39:51 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 17
+[15-Nov-2017 09:39:51 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 18
+[15-Nov-2017 09:40:57 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 17
+[15-Nov-2017 09:40:57 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 18
+[15-Nov-2017 15:01:24 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/grados.php on line 12
+[15-Nov-2017 15:01:24 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/grados.php on line 13
+[16-Nov-2017 18:02:50 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 17
+[16-Nov-2017 18:02:50 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 18
+[16-Nov-2017 18:04:30 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 17
+[16-Nov-2017 18:04:30 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 18
+[16-Nov-2017 18:04:44 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 17
+[16-Nov-2017 18:04:44 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 18
+[16-Nov-2017 18:05:27 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 17
+[16-Nov-2017 18:05:27 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/materias_grado.php on line 18
+[17-Nov-2017 15:07:30 America/Bogota] PHP Notice:  Undefined index: admin in /home/imcrea/public_html/paginas/campos/grados.php on line 12
+[17-Nov-2017 15:07:30 America/Bogota] PHP Notice:  Undefined index: code in /home/imcrea/public_html/paginas/campos/grados.php on line 13
